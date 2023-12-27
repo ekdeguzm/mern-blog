@@ -58,6 +58,11 @@ div.post p.info a.author{
   color: #333;
 }
 
+div.post p.summary{
+  margin: 10px 0;
+  line-height: 1.4rem;
+}
+
 div.post div.image{
   width: 100%;
 }
