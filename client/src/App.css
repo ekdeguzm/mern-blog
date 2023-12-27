@@ -45,6 +45,13 @@ div.post div.texts h2{
   font-size: 1.4rem;
 }
 
+div.post div.info{
+  margin: 0;
+  color: #888;
+  font: 1rem;
+  font-weight: bold;
+}
+
 div.post div.image{
   width: 100%;
 }
