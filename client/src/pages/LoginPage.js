@@ -1,5 +1,9 @@
 export default function LoginPage() {
   return( 
-    <div>login page</div>
+    <form action="">
+      <input type="text" placeholder="username"></input>
+      <input type="text" placeholder="password"></input>
+      <button>Login</button>
+    </form>
   );
 }
