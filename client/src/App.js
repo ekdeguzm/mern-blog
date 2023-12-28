@@ -12,6 +12,8 @@ function App() {
         </nav>
       </header>
     <Post />
+    <Post />
+    <Post />
     </main>
   );
 }
