@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 body{
   color: #222;
 }
@@ -65,6 +69,31 @@ div.post p.summary{
 
 div.post div.image{
   width: 100%;
+}
+
+form.login, form.register{
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input{
+  display: block;
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+button{
+  width: 100%;
+  display: block;
+  background-color: #555;
+  border: 0;
+  color: #fff;
+  padding: 7px 0;
+  border-radius: 5px;
 }
 
 

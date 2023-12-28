@@ -1,6 +1,6 @@
 export default function LoginPage() {
   return( 
-    <form action="">
+    <form className="login">
       <input type="text" placeholder="username"></input>
       <input type="text" placeholder="password"></input>
       <button>Login</button>
