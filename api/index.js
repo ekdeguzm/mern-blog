@@ -22,3 +22,5 @@ app.listen(4000);
 //emdeguzm
 //WapaArIidRiaw2e4
 //mongodb+srv://emdeguzm:WapaArIidRiaw2e4@cluster0.it3b2me.mongodb.net/?retryWrites=true&w=majority
+
+//mongodb+srv://emdeguzm:WapaArIidRiaw2e4@cluster0.it3b2me.mongodb.net/?retryWrites=true&w=majority
