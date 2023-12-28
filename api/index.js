@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/test', (req,res) => {
-  resizeTo.json('test ok');
+  res.json('test ok3');
 });
 
-app.listen(4000)
+app.listen(4000);
